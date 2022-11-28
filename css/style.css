@@ -1,0 +1,14 @@
+@media all and (max-width: 576px){
+    .sliderResponsive{
+        height: 250px;
+        object-fit: cover;
+    }
+    .centrar{
+        text-align: center;
+    }
+}
+
+.hover_mio:hover{
+       
+    filter: drop-shadow(16px 16px 20px red) invert(75%);
+}
